@@ -1,13 +1,13 @@
-<a href="https://komarev.com/ghpvc/?username=wixden">
-  <img align="right" src="https://komarev.com/ghpvc/?username=wixden&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=akhtarhssn">
+  <img align="right" src="https://komarev.com/ghpvc/?username=akhtarhssn&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@wixden)
+[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@akhtarhssn)
 
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/Wixden">Akhtar Hussain</a></b>
+                <b><a target="_blank" href="https://github.com/akhtarhssn">Akhtar Hussain</a></b>
         </samp>
 </h1>
 
@@ -21,19 +21,19 @@
 
 <p align="center">
  <a href="https://aktarhossain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="wixden" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akhtarhssn" />
  </a>
  <a href="https://www.linkedin.com/in/mohammedakhtar7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wixden"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akhtarhssn"/>
  </a>
- <a href="https://dev.to/wixden" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="wixden" />
+ <a href="https://dev.to/akhtarhssn" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="akhtarhssn" />
  </a>
  <a href="https://twitter.com/Yamete_Kudesi" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
-<!--  <a href="https://instagram.com/wixden.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="wixden" />
+<!--  <a href="https://instagram.com/akhtarhssn.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akhtarhssn" />
  </a>  -->
  <a href="https://www.facebook.com/mohammedakhtar07/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Akhtar"  />
@@ -51,7 +51,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: itsakhtar@outlook.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Wixden)
+ 💬 &emsp; Ask me about anything [here](https://github.com/akhtarhssn)
 
 </p>
 
@@ -84,15 +84,15 @@
 
 ## Check this Out!
 
-[![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Soul-Sync-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Soul-Sync-Client)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Toy-Stars&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Toy-Stars-Server)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Toy-Stars-Server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Toy-Stars)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=Chef-Hunter-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/Chef-Hunter-Client)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=chef-recipe-server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/chef-recipe-server)
-[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=wixden&repo=univista&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Wixden/univista)
+[![Soul-Sync](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=Soul-Sync-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/Soul-Sync-Client)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=Toy-Stars&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/Toy-Stars-Server)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=Toy-Stars-Server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/Toy-Stars)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=Chef-Hunter-Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/Chef-Hunter-Client)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=chef-recipe-server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/chef-recipe-server)
+[![Toy-Stores](https://github-readme-stats.vercel.app/api/pin/?username=akhtarhssn&repo=univista&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/akhtarhssn/univista)
 
 <p align="left">
-  <a href="https://github.com/Wixden?tab=repositories" target="_blank"><img alt="Wixden Repositories" title="Wixden Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/akhtarhssn?tab=repositories" target="_blank"><img alt="akhtarhssn Repositories" title="akhtarhssn Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -102,21 +102,21 @@
 <!--
 -->
 <p align="center">
-  <a href="https://github.com/Wixden">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wixden&theme=radical&border=7F3FBF&background=0D1117" alt="Wixden's GitHub streak"/>
+  <a href="https://github.com/akhtarhssn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarhssn&theme=radical&border=7F3FBF&background=0D1117" alt="akhtarhssn's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Wixden">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wixden&theme=radical" alt="Wixden's GitHub Contribution"/>
+  <a href="https://github.com/akhtarhssn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhtarhssn&theme=radical" alt="akhtarhssn's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Wixden"><img alt="Wixden's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=wixden&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Wixden"><img alt="Wixden's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wixden&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/akhtarhssn"><img alt="akhtarhssn's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=akhtarhssn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/akhtarhssn"><img alt="akhtarhssn's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akhtarhssn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br />
 </a>
 
-[![Akhtar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wixden&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akhtar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhtarhssn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
