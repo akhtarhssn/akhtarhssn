@@ -103,13 +103,13 @@
 -->
 <p align="center">
   <a href="https://github.com/akhtarhssn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarhssn&theme=radical&border=7F3FBF&background=0D1117" alt="akhtarhssn's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarhssn&theme=radical&border=7F3FBF&background=0D1117" alt="akhtarhssn's GitHub streak" width="100%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/akhtarhssn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhtarhssn&theme=radical" alt="akhtarhssn's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhtarhssn&theme=radical" alt="akhtarhssn's GitHub Contribution" width="100%"/>
   </a>
 </p>
 
