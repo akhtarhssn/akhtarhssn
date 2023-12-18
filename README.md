@@ -47,8 +47,8 @@
 
 <p>
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
-<video width="350" controls autoplay>
-    <source src="unwrapped-akhtarhssn.mp4" type="video/mp4">
+<video width="350" controls>
+    <source src="/unwrapped-akhtarhssn.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
