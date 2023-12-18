@@ -113,10 +113,14 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=antfu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF" height="200px" width="49.5%"/></a>
-  <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akhtarhssn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
+<p> 
+    <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=antfu&show_icons=true&count_private=true&theme=react&border_color=7F3FBF" height="200px" width="100%"/></a>
+  
+</p>
+<p>
+  
+  <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akhtarhssn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="100%"/></a>
+</p>
   <br />
-</a>
 
 [![Akhtar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhtarhssn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
