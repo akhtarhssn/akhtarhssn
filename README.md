@@ -46,7 +46,7 @@
 # About me
 
 <p>
- <img align="right" width="450" height="300" src="/assets/ezgif-2-1dc70f2f9c.gif" alt="Coding gif" />
+ <img align="right" width="260" height="260" src="/assets/ezgif-2-1dc70f2f9c.gif" alt="Coding gif" />
 
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
