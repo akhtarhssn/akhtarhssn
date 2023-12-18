@@ -46,11 +46,7 @@
 # About me
 
 <p>
-<!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
-<video width="350" controls>
-    <source src="/unwrapped-akhtarhssn.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+ <img align="right" width="350" src="/assets/assets/ezgif-2-1dc70f2f9c.gif" alt="Coding gif" />
 
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
