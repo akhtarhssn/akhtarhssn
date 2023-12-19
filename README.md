@@ -52,7 +52,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: itsakhtar@outlook.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/akhtarhssn)
+ 💬 &emsp; Ask me about anything [here](https://aktarhossain.com)
 
 </p>
 
