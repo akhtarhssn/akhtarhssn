@@ -105,7 +105,7 @@
 <p align="center">
   <a href="https://github.com/akhtarhssn">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=antfu&theme=radical&border=7F3FBF&background=0D1117" alt="Akhtar's GitHub streak" width="100%"/> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarhssn&theme=radical&border=7F3FBF&background=0D1117" alt="Akhtar's GitHub streak" width="85%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhtarhssn&theme=radical&border=7F3FBF&background=0D1117" alt="Akhtar's GitHub streak" width="80%"/>
   </a>
 </p>
 
@@ -117,7 +117,7 @@
 
 
 <p align="center"> 
-    <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=akhtarhssn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF" height="400px" width=85%"/></a>
+    <a href="https://github.com/akhtarhssn"><img alt="Akhtar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=akhtarhssn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF" height="400px" width=80%"/></a>
   </p>
 <!-- 
 <p>  
