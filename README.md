@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=wixden&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@akhtarhssn)
+[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@antfu)
 
 <!-- Intro  -->
 <h1 align="center">
