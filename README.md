@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=wixden&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@antfu)
+[![wakatime](https://wakatime.com/badge/user/018b828a-4649-44b0-b021-f5f5aaea4ccb.svg)](https://wakatime.com/@akhtarhssn)
 
 <!-- Intro  -->
 <h1 align="center">
@@ -50,7 +50,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: contact@aktarhossain.com<br/><br/>
- 💬 &emsp; Ask me about anything [![here]](https://aktarhossain.com/)
+ 💬 &emsp; Ask me about anything [here](https://aktarhossain.com)
 
 </p>
 
