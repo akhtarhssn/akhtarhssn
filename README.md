@@ -44,7 +44,7 @@
 
 <!-- About Section -->
 
-# About me
+# About Me
 
 <p>  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
